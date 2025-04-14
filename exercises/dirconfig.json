@@ -3,5 +3,5 @@
     "handler": "tested",
     "test_suite": "suite.yaml"
   },
-  "programming_language": "python"
+  "programming_language": "html"
 }
