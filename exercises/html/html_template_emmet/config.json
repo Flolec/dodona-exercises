@@ -7,14 +7,12 @@
   },
   "type": "exercise",
   "programming_language": "html",
-  "labels": [
-
-  ],
+  "labels": [],
   "evaluation": {
     "handler": "html"
   },
   "internals": {
-    "token": "kwWgn6RX5ANz93NIC_gF3yJRbPrzdJ_NFIx7z7D5hRfQckxzxTWCvCFtaCXdiBq3",
+    "token": "yw96XIBae4jSzbgUcMFhM65_tF8uRnwxTghixHhEXTJdRUizUVCxnx7nK2-5QP_F",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
