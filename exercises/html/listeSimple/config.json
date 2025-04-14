@@ -2,12 +2,12 @@
   "description": {
     "names": {
       "nl": "Simple liste",
-      "en": "Simple liste"
+      "fr": "Simple liste"
     }
   },
   "type": "exercise",
   "programming_language": "html",
-  "labels": [],
+  "labels": [ ],
   "evaluation": {
     "handler": "html"
   },
